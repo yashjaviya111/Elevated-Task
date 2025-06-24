@@ -71,4 +71,4 @@ A phishing email is a deceptive message designed to:
 
 ## 📌 Author
 Yash Javiya 
-Cybersecurity & Digital Forensics Enthusiast  
+(Cybersecurity & Digital Forensics Enthusiast)  
