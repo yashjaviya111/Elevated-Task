@@ -116,7 +116,7 @@ Wireshark capture saved as `.pcapng`.
 
 **Yash Javiya**
 Intern | Ethical Hacking & Cybersecurity
-[GitHub Profile](https://github.com/CyberSIDH)
+[GitHub Profile](https://github.com/yashjaviya111)
 
 
 ## 🔗 License
