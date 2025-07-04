@@ -12,7 +12,6 @@ This project demonstrates the practical use of a Virtual Private Network (VPN) t
 - Assess the performance impact of VPN usage.
 - Gain awareness of practical cybersecurity tools.
 
----
 
 ## Tools & Platforms Used
 
@@ -24,7 +23,6 @@ This project demonstrates the practical use of a Virtual Private Network (VPN) t
 | speedtest.net            | Measure internet speed impact                |
 | Windows 11               | Operating system for VPN setup               |
 
----
 
 ## Step-by-Step Guide
 
@@ -59,7 +57,6 @@ This project demonstrates the practical use of a Virtual Private Network (VPN) t
 
 *Speed dropped slightly due to encryption overhead.*
 
----
 
 ## VPN Protocols & Features
 
@@ -69,7 +66,6 @@ This project demonstrates the practical use of a Virtual Private Network (VPN) t
 | Protocols           | OpenVPN, WireGuard, IKEv2/IPSec  |
 | Privacy Tools       | DNS leak protection, kill switch, no-log policy |
 
----
 
 ## Summary
 
@@ -94,9 +90,8 @@ This project demonstrates the practical use of a Virtual Private Network (VPN) t
 - Free VPNs have limited server access.
 - Not fully anonymous (e.g., browser fingerprinting).
 
----
-
 ## Conclusion
 
 This document is provided valuable practical experience with VPN technology, reinforcing cybersecurity principles such as privacy, secure communication, and protocol awareness.
+
 **Author**: Yash Javiya  
